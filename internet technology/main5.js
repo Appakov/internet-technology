@@ -1,0 +1,1 @@
+p=document.body.firstChild; alert(p)
